@@ -5,4 +5,4 @@ The script Scores_Simulations performs 100 repetitions of the Lotka-Volterra sty
 
 The script ScoresForAnnotatedImages performs the spatial analysis (section 3.3.1) and co-occurrence plot analysis (section 3.3.2) of the images annotated by Maier et al. (2021 - see paper for full reference). It plots figure 4 and 5.
 
-The script Scores_Matrices draws matrices with idealized distributions of two species and calculates Aggregation and Symmetry Scores for different resolutions (section 2.2 and figure 1). 
+The script Scores_Matrices draws matrices with idealized distributions of two species and calculates Aggregation and Symmetry Scores for different resolutions (section 2.2 and figure 1). The script also calculates the C-score (supplement 1). 
