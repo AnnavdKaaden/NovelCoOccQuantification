@@ -7,6 +7,7 @@
 library(ReacTran)
 library(RColorBrewer)
 require(ggplot2)
+require(terra)
 
 # The collection of functions used in the script
 # Function to calculate ra, rb, and Xab
