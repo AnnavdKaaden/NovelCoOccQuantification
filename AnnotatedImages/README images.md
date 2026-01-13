@@ -12,7 +12,7 @@ Enter the path to the folder in the R script. The script will then automatically
 
 ## Contact
 
-For any questions or requests please contact the authors dr. Anna van der Kaaden or dr. Sandra R. Maier.
+For any questions or requests please contact the authors dr. Anna van der Kaaden (OrcID: 0000-0002-8814-1822) or dr. Sandra R. Maier (OrcID: 0000-0001-9728-0771).
 
 ## Acknowledgments and citation
 
