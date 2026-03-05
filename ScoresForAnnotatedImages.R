@@ -1,6 +1,5 @@
 #########################################################################################
 # This script calculates the Aggregation and Symmetry scores for the annotated images
-# (c)2025, Anna van der Kaaden
 #########################################################################################
 
 # Set working directory to folder location of image files
