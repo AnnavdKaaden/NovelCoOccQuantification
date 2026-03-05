@@ -33,7 +33,5 @@ These are the same images as in supplementary figure 7 of the paper.
 
 ## Citation
 
-For the correct citations, we refer the reader to the Zenodo entry.
-
 ## How to contribute
 
