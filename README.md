@@ -1,6 +1,6 @@
 # Scripts for Novel metrics of spatial co-occurrence paper
 ## Description
-Scripts belonging to the paper titled Novel metrics of spatial co-occurrence reflect species interaction types in a cold-water coral reef community, by A. van der Kaaden et al. 
+Scripts belonging to the paper titled A novel approach using spatial co-occurrence uncovers species interaction types in a cold-water coral reef community 
 
 The script Scores_Simulations performs 100 repetitions of the Lotka-Volterra style simulations from section 2.3 of the paper. It calculates the Aggregation and Symmetry Scores, calculates the quantiles of the results, and plots the results (figure 2).
 
@@ -37,5 +37,3 @@ For the correct citations, we refer the reader to the Zenodo entry.
 
 ## How to contribute
 
-Feel free to contact us for questions, advise, collaborations, or feedback. 
-dr. Anna van der Kaaden, a.vanderkaaden@uu.nl, OrcID: 0000-0002-8814-1822
