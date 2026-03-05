@@ -1,6 +1,5 @@
 ####################################################
 # Aggregation and Symmetry scores for matrices
-# (c)2025 Anna van der Kaaden
 ####################################################
 # Load packages
 require(terra)
