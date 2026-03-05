@@ -1,6 +1,5 @@
 #################################################################################
 # This script simulates communities with interacting species
-# (c)2025 A. van der Kaaden
 ############################################################################
 
 # Imports necessary packages
